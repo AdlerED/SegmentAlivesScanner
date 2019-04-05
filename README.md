@@ -3,7 +3,8 @@
 
 # IDE
 Develop via Intellij IDEA, good compatibility, native libraries.
-Download the project, open it with IDEA, running now.
+
+Download the project, open it with IDEA, now working.
 
 # Preview
 ![PICTURE](/pic/preview.png)
